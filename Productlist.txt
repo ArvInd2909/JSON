@@ -1,0 +1,52 @@
+[
+   {
+    "productName": "iPhone 12",
+    "id": 1,
+    "description": "Apple iPhone 12 Pro "
+   },
+   {
+    "productName": "iPhone 12 Max PRo",
+    "id": 2,
+    "description": "Apple iPhone 12 Pro Max Pro"
+   },   
+   {
+    "productName": "iPhone 11",
+    "id": 3,
+    "description": "Apple iPhone 11"
+   },
+   {
+    "productName": "iPhone 11 Max PRo",
+    "id": 4,
+    "description": "Apple iPhone 11 Pro Max Pro"
+   },
+   {
+    "productName": "iPhone Xs",
+    "id": 5,
+    "description": "Apple iPhone Xs"
+   },
+   {
+    "productName": "iPhone XR",
+    "id": 6,
+    "description": "Apple iPhone XR"
+   },
+   {
+    "productName": "Samsung S20 Ultra",
+    "id": 7,
+    "description": "Samsung Galaxy S20 Ultra" 
+   },
+   {
+    "productName": "Samsung S21",
+    "id": 8,
+    "description": "Samsung Galaxy S21"    
+   },
+   {
+    "productName": "Samsung S10+",
+    "id": 9,
+    "description": "Samsung Galaxy S10 Plus"
+   },
+   {
+    "productName": "OnePlus8",
+    "id": 10,
+    "description": "OnePlus 8"    
+   }
+]
